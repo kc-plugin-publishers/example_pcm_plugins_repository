@@ -1,0 +1,22 @@
+{
+    "$schema": "https://gitlab.com/kicad/code/kicad/-/raw/master/kicad/pcm/schemas/pcm.v1.schema.json#/definitions/Repository",
+    "maintainer": {
+        "contact": {
+            "forum": "https://forum.kicad.info/u/eelik/"
+        },
+        "name": "eelik"
+    },
+    "name": "Example plugin repository",
+    "packages": {
+        "sha256": "",
+        "update_time_utc": "2021-11-07 12:54:02",
+        "update_timestamp": 1636289642,
+        "url": "https://gitlab.com/kc-plugin-publishers/example_pcm_plugins_repository/-/raw/main/packages.json"
+    },
+    "resources": {
+        "sha256": "",
+        "update_time_utc": "2021-11-07 12:54:02",
+        "update_timestamp": 1636289642,
+        "url": ""
+    }
+}
